@@ -12,6 +12,8 @@ As for the usual "is this a rat?" question: **no, it isn't.** I know some people
 
 This repository will only contain DLLs that I personally decide are fine to release publicly. Don't expect every build, feature, or version of Astroid to end up here.
 
+Yes it's a lexical skid
+
 <img width="1919" height="995" alt="Astroid" src="https://github.com/user-attachments/assets/f6de47e1-9794-470a-b30e-af4ac56911a8" />
 
 <img width="1919" height="996" alt="Astroid" src="https://github.com/user-attachments/assets/4f70d2ee-7c86-4586-8d23-46dfed8d13c5" />
